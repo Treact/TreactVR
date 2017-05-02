@@ -1,6 +1,6 @@
 {
   "name": "aframe-react-boilerplate",
-  "version": "3.0.1",
+  "version": "0.0.1",
   "description": "Boilerplate for building virtual reality experiences with A-Frame and React.",
   "dependencies": {
     "aframe": "^0.5.0",
