@@ -6,6 +6,8 @@ import {Entity, Scene} from 'aframe-react';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+require('aframe-leap-hands').registerAll();
+
 class App extends React.Component {
   constructor(props) {
     super(props);
