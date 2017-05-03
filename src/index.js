@@ -51,6 +51,11 @@ class App extends React.Component {
         <Entity primitive="a-camera">
           <Entity primitive="a-cursor" animation__click={{property: 'scale', startEvents: 'click', from: '0.1 0.1 0.1', to: '1 1 1', dur: 150}}/>
         </Entity>
+
+        <a-entity camera="near: 0.01" look-controls position="0 1.5 0">
+          <a-entity leap-hand="hand: left"></a-entity>
+          <a-entity leap-hand="hand: right"></a-entity>
+        </a-entity>
       </Scene>
     );
   }
