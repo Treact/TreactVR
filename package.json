@@ -1,5 +1,5 @@
 {
-  "name": "aframe-react-boilerplate",
+  "name": "TreactVR",
   "version": "0.0.1",
   "description": "Boilerplate for building virtual reality experiences with A-Frame and React.",
   "dependencies": {
@@ -35,7 +35,7 @@
     "aframe-react",
     "webvr"
   ],
-  "author": "Kevin Ngo <kngo@mozilla.com>",
+  "author": "Kevin Chau <kevinchau321@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Treact/TreactVR/issues"
