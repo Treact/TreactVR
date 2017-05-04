@@ -40,7 +40,7 @@
   "bugs": {
     "url": "https://github.com/Treact/TreactVR/issues"
   },
-  "homepage": "https://github.com/Treact/TreactVR",
+  "homepage": "https://treact.github.io/TreactVR",
   "devDependencies": {
     "gh-pages": "^0.12.0"
   }
